@@ -1,0 +1,39 @@
+
+BRIDGEWATER MODERN MERCANTILISM FORECAST - SUMMARY STATISTICS
+
+Total Forecasts: 22
+Average Probability: 58.6%
+Median Probability: 65.0%
+
+By Timeframe:
+- 2-year forecasts: 8
+- 5-year forecasts: 14
+
+By Confidence:
+- High confidence: 10
+- Medium confidence: 9
+- Low confidence: 3
+
+Top Categories:
+category
+Trade           6
+Currency        5
+Technology      3
+Debt            3
+Financial       1
+Industrial      1
+Energy          1
+Investment      1
+Geopolitical    1
+
+Highest Probability Events:
+                                                                   question  probability
+                        Will global public debt exceed 100% of GDP by 2030?           90
+        Will renewable energy constitute >40% of global energy mix by 2030?           85
+Will food/agriculture constitute >20% of global trade restrictions by 2027?           85
+
+Lowest Probability Events:
+                                                          question  probability
+        Will South Korea or Japan develop nuclear weapons by 2030?           15
+              Will a G7 country default on sovereign debt by 2030?           20
+Will China achieve 70% self-sufficiency in semiconductors by 2030?           25

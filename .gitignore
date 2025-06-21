@@ -1,0 +1,19 @@
+# NinjaTrader specific
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Visual Studio
+.vs/
+*.vsidx
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~*
